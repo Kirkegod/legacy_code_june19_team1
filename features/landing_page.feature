@@ -8,4 +8,4 @@ Scenario: Display login funcion on landing page
     Then I should see "Craft Academy Mailboxer"
     And I should see "Login" 
     And I should see "Sign up"
-
+    

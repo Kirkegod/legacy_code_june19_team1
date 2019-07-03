@@ -1,0 +1,14 @@
+{
+  "name": "legacy_code_june19_team1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kirkegod/legacy_code_june19_team1.git",
+  "author": "Kirkegaard <milla.kirkegaard@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "puppeteer": "^1.18.1",
+    "superstatic": "^6.0.4"
+  }
+}
